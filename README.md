@@ -6,9 +6,10 @@ the project include 3 separate configuration.
 "NewTask" is an implementation with different pick and place configurations
 "Overshoot" causes an overshoot ot occur in the controller
 
-all implementations use a feedforward+PI controller
+all implementations use either a feedforward+P or  feedforward+PI controller 
 
 # Best
+
 
 # NewTask
 
