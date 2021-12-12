@@ -11,10 +11,15 @@ all implementations use either a feedforward+P or  feedforward+PI controller
 # Best
 ![best](https://user-images.githubusercontent.com/85181559/145726678-7351569d-f468-4fbe-8f03-1935d2ea8ad4.gif)
 
+![error](https://github.com/Rank-N-Tensor/Mobile-Manipulation/blob/master/Error_report/Best1.png)
+
 
 # NewTask
 ![new](https://user-images.githubusercontent.com/85181559/145726684-73319773-cd67-4188-b718-696c261280b1.gif)
 
+![error](https://github.com/Rank-N-Tensor/Mobile-Manipulation/blob/master/Error_report/new.png)
 
 # Overshoot
 ![overshoot](https://user-images.githubusercontent.com/85181559/145726688-c40c7481-3267-4df9-9a2f-53586b000937.gif)
+
+![error](https://github.com/Rank-N-Tensor/Mobile-Manipulation/blob/master/Error_report/Overshoot.png)
